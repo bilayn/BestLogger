@@ -1,0 +1,10 @@
+C:\Users\bilay\source\repos\testSprinterra\testSprinterra\bin\Debug\testSprinterra.exe.config
+C:\Users\bilay\source\repos\testSprinterra\testSprinterra\bin\Debug\testSprinterra.exe
+C:\Users\bilay\source\repos\testSprinterra\testSprinterra\bin\Debug\testSprinterra.pdb
+C:\Users\bilay\source\repos\testSprinterra\testSprinterra\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bilay\source\repos\testSprinterra\testSprinterra\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\bilay\source\repos\testSprinterra\testSprinterra\obj\Debug\testSprinterra.csprojAssemblyReference.cache
+C:\Users\bilay\source\repos\testSprinterra\testSprinterra\obj\Debug\testSprinterra.csproj.CoreCompileInputs.cache
+C:\Users\bilay\source\repos\testSprinterra\testSprinterra\obj\Debug\testSprinterra.csproj.CopyComplete
+C:\Users\bilay\source\repos\testSprinterra\testSprinterra\obj\Debug\testSprinterra.exe
+C:\Users\bilay\source\repos\testSprinterra\testSprinterra\obj\Debug\testSprinterra.pdb
